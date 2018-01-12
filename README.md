@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Main
 
-Things you may want to cover:
+Quick repo created in class in order to learn how to perform CRUD actions using the Posts Resource.
 
-* Ruby version
+All working fine.
+Very basic app.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You need to run:
+```
+rails s
+```
+and in your browser go to:
+```
+localhost:3000/posts
+```
+To see the results.
